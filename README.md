@@ -18,7 +18,7 @@ I excel in designing and developing scalable, responsive, and dynamic web applic
 
 ## 💻 **Tech Stack**  
 
-<p align="center">  
+<p align="start">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
@@ -36,7 +36,7 @@ I excel in designing and developing scalable, responsive, and dynamic web applic
 ---
 
 ## 📫 **Connect with Me**  
-<p align="center">  
+<p >  
   <a href="mailto:sandeshdeshmukh2704@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
   </a>  
@@ -52,10 +52,14 @@ I excel in designing and developing scalable, responsive, and dynamic web applic
   <a href="tel:+919823275658">  
     <img src="https://img.shields.io/badge/Call-4285F4?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>  
   </a>  
+  <a href="https://sandesh2704.github.io/portfolio/" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-4C8BF5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>  
+  </a>  
 </p>  
 
 ---
 
 ✨ *Let’s connect and create impactful projects together!*  
+
 
 
