@@ -16,26 +16,47 @@ I have a strong foundation in both **front-end** and **back-end development**, s
 
 🎯 I’m always eager to **learn, grow, and contribute** to forward-thinking projects that make a difference.  
 
- 
+---
+
+## 💻 **Tech Stack**  
+<p align="center">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>  
+</p>  
 
 ---
 
-## 🔧 Skills  
+## 🚀 **What I Do**  
+- Build dynamic web applications using **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+- Design user-friendly interfaces with **Next.js** and **React**.  
+- Integrate secure backend solutions with RESTful APIs.  
+- Develop innovative blockchain projects using **Solidity** and **Web3.js**.  
 
-**Frontend:**  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white),  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black),  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+---
 
-**Backend:**  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white),![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white),![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## 📫 **Connect with Me**  
+<p align="center">  
+  <a href="https://sandeshdeshmukhportfolio.vercel.app/" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>  
+  </a>  
+  <a href="https://github.com/Sandesh2704" target="_blank">  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
+  </a>  
+  <a href="http://www.linkedin.com/in/sandesh-deshmukh-036b4624b" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+  </a>  
+  <a href="mailto:sandeshdeshmukh2704@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
+  </a>  
+</p>  
 
-**Tools:**  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+---
 
-**Others:** ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white),![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white),
-
-
-
-## 📫 Let's Connect  
-
-🌐 [Portfolio](https://sandeshdeshmukhportfolio.vercel.app/)  
-🖥️ [GitHub](https://github.com/Sandesh2704)  
-💼 [LinkedIn](http://www.linkedin.com/in/sandesh-deshmukh-036b4624b)  
-📧 [Email](mailto:sandeshdeshmukh2704@gmail.com)  
+✨ *Let’s build something amazing together!*  
 
