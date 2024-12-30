@@ -19,7 +19,7 @@ I excel in designing and developing scalable, responsive, and dynamic web applic
 
 ## 📫 **Connect with Me**  
 <p align="left">  
-  <a href="https://sandeshdeshmukhportfolio.vercel.app/" target="_blank">  
+  <a href="https://portfolio-sandesh-deshmukh.vercel.app/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>  
   </a>  
   <a href="https://github.com/Sandesh2704" target="_blank">  
@@ -47,4 +47,4 @@ I excel in designing and developing scalable, responsive, and dynamic web applic
 </p>  
 
 
-Feel free to replace sandeshdeshmukh2704@gmail.com and yourportfolio.com with your actual Gmail and portfolio URLs. Let me know if you'd like to further enhance any sections!
+Feel free to replace sandeshdeshmukh2704@gmail.com with your actual Gmail and portfolio URLs. Let me know if you'd like to further enhance any sections!
